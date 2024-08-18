@@ -12,25 +12,17 @@ Requirements:
 
     Python: Ensure you have Python installed on your system. This tool is compatible with Python 3.x.
 
-How It Works:
+Installation Instructions:
 
-    Select Vehicle: Choose a vehicle from the dropdown menu.
-    Start Duplication: Click the "Start Duplication" button to initiate the duplication process.
-    Monitor Progress: Watch the real-time logs to see the progress of the duplication.
-
-Getting Started:
-
-    Clone the repository.
-    Install the necessary dependencies (refer to the requirements.txt file).
-    Run the tkinter UI script to start managing your vehicle duplications.
+    Run the Requirements Installer: Before using the tool, run the provided batch file to simulate the installation of necessary packages.
+    Clone the Repository: Clone this repository to your local machine.
+    Install Dependencies: Install any additional dependencies listed in the requirements.txt file (if applicable).
+    Run the tkinter UI Script: Start the tool by running the provided tkinter UI script.
 
 Source Code:
 
 The complete source code for the Jailbreak Duplication Tool is available in this repository. Feel free to explore, modify, and contribute to the project as you see fit.
+Development Note:
 
-This tool is perfect for Jailbreak enthusiasts looking to explore vehicle duplication in a simulated environment. Note that this tool is for educational and simulation purposes only.
-
+This tool took 4 months to develop. Your support and feedback are greatly appreciated. If you find this tool useful, please consider giving it a star and sharing your thoughts.
 Enjoy simulating your Jailbreak experience!
-
-![image](https://github.com/user-attachments/assets/14431a38-cb85-4a97-8e19-95acfe0b7e5b)
-
