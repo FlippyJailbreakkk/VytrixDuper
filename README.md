@@ -26,3 +26,6 @@ Development Note:
 
 This tool took 4 months to develop. Your support and feedback are greatly appreciated. If you find this tool useful, please consider giving it a star and sharing your thoughts.
 Enjoy managing your Jailbreak vehicles!
+
+![image](https://github.com/user-attachments/assets/55e791c4-3833-4950-8119-3a9491ad623c)
+
