@@ -13,8 +13,10 @@ Welcome to the Jailbreak Duplication Tool, a powerful utility designed for fans 
 
 **🛠️ Requirements:**
 
-Windows OS: This tool is built for Windows.
-.exe File: Download and run the provided executable file to get started.
+
+**Windows OS:** This tool is built for Windows.
+**Python**: Ensure Python is installed as it’s essential for running certain processes in the tool.
+
 
 **📥 Installation Instructions:**
 Run the Requirements Installer: Before using the tool, run the provided batch file to install the necessary packages.
