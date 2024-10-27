@@ -23,3 +23,5 @@ Welcome to the Jailbreak Duplication Tool, a powerful utility designed for fans 
 **📝 Development Note:** This tool took 4 months to develop. Your support and feedback are greatly appreciated! If you find this tool useful, please consider giving it a star ⭐ and sharing your thoughts.
 
 Enjoy managing your Roblox Jailbreak vehicles! 🚗✨
+
+![image](https://github.com/user-attachments/assets/b2f6b3b5-c380-4119-9841-ed580583fad3)
