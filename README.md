@@ -11,17 +11,18 @@ Welcome to the Jailbreak Duplication Tool, a powerful utility designed for fans 
 **🛠️ Requirements:**
 
 **Windows OS:** This tool is built for Windows.
-**Python:** Ensure Python is installed as it’s essential for running certain processes in the tool.
+
 
 **📥 Installation Instructions:**
 
-**Run the Requirements Installer:** Before using the tool, run the provided batch file to install the necessary packages, including Python dependencies.
+**Run the Requirements Installer:** Before using the tool, run the provided batch file to install the necessary packages
 **Clone the Repository:** Clone this repository to your local machine.
-**Run the .py:** Simply run the .py file to start the tool!
+**Run the .exe:** Simply run the executable to start the tool!
 **📂 Source Code:** The complete source code for the Jailbreak Duplication Tool is available in this repository. Feel free to explore, modify, and contribute to the project as you see fit!
 
 **📝 Development Note:** This tool took 4 months to develop. Your support and feedback are greatly appreciated! If you find this tool useful, please consider giving it a star ⭐ and sharing your thoughts.
 
 Enjoy managing your Roblox Jailbreak vehicles! 🚗✨
 
-![image](https://github.com/user-attachments/assets/b2f6b3b5-c380-4119-9841-ed580583fad3)
+![image](https://github.com/user-attachments/assets/780f1a99-cd7b-4464-aaf5-2a11f12b8ea9)
+
